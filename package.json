@@ -1,0 +1,11 @@
+{
+  "name": "talamasca",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "talamasca devops syntax theme",
+  "readme": "This theme is heavy inspired on codeschool and railcasts - enjoy",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
