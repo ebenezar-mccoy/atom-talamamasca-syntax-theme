@@ -1,7 +1,7 @@
 {
   "name": "talamasca",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "talamasca devops syntax theme",
   "readme": "This theme is heavy inspired on codeschool and railcasts - enjoy",
   "repository": "https://github.com/ebenezar-mccoy/atom-talamasca-syntax-theme.git",
